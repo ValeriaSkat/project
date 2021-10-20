@@ -1,0 +1,183 @@
+/*.container {
+  height: 10000px;
+  overflow:hidden;
+  overflow-y:hidden;  /*для вертикального*/
+  overflow-x:hidden;  /*для горизонтального*/
+}
+body {
+  font-family: 'Bebas Neue', sans-serif;
+  font-style: normal;
+}
+/* Весь шрифт, который забивается в ручную будет BEBAS NEUE */
+/*h1, h2, h3, p, ul, li, blockquote, div, img, hr, {
+  width: 476px;
+  margin: 0 auto;
+}*/
+/* Выравнивание всего блока по середине */
+h1 {
+  font-size: 220px; /* Кегель*/
+  margin-top: 190px; /* Оступ сверху */
+  line-height: 170px; /* Расстояние между строками */
+  width: 476px; /* Отступы по бокам */
+  margin: 0 auto; /* Выравнивание */
+}
+.hop {
+  position: absolute;
+  top: 186px;
+  left: 476px;
+}
+.pg1 {
+   float: right;/* Выравнивание по правому краю */
+   margin: 0 0 25px 25px; /* Отступы */
+   position: relative;
+   z-index: -1;
+}
+.pg2 {
+  float: left;
+  top: -199px;
+  position: relative;
+  z-index: -3;
+}
+.pg3 {
+  position: relative;
+  top: 510px;
+  z-index: -1;
+}
+.pg4 {
+  left: -100px;
+  top: 240px;
+  position: relative;
+  z-index: -1;
+}
+.pg5{
+  left: 260px;
+  top: -190px;
+  position: relative;
+  z-index: -4;
+}
+/*.pg5 img{
+}*/
+.pg6{
+  top: -760px;
+  float: right;
+  position: relative;
+  z-index: -5;
+}
+.pg6 img{
+  max-width: 309px;
+  max-height: 687px;
+}
+.t1 {
+  position: fixed;
+  top: 700px;
+  left: 676px;
+}
+.t2 {
+  font-size: 40px;
+  position: absolute;
+  top: 675px;
+  left: 22px;
+}
+p {
+    /*font style: Regular;*/
+    margin-top: 50px;
+    font-size: 58px;
+    margin-left: 11px;
+    line-height: 55px;
+    /*font-weight: 500;*/
+}
+.pg21 {
+   float: left;
+   margin-top: -450px;
+}
+.pg21 img {
+  max-width: 2362px;
+  max-height: 948px;
+}
+.t3{
+  position: absolute;
+  top: 1900px;
+}
+.pg31{
+  position: relative;
+  top: 300px;
+  /*left: 100px;*/
+}
+.pg31 img {
+  margin-left: 100px;
+}
+hr {
+  position: absolute;
+width: 1240px;
+height: 0px;
+left: 105px;
+top: 2140px;
+
+border: 1px solid #000000;
+}
+.pg31 hr {
+  position: absolute;
+  width: 1240px;
+  height: 0px;
+  top: 1160px;
+
+border: 1px solid #000000;
+}
+.t4 {
+  position: absolute;
+  top: 2600px;
+}
+
+.pg41 {
+  position: relative;
+  top: 1000px;
+}
+.pg42 {
+  position: relative;
+  top: 208px;
+}
+.pg43 {
+  position: relative;
+  top: -448px;
+  left: 40%;
+}
+.pg44 {
+  position: relative;
+  top: -970px;
+  right: -880px;
+}
+.pg45 {
+  position: relative;
+  top: -1567px;
+  right: -1110px;
+}
+.ot {
+  position: absolute;
+  font-size: 19px;
+  left: 150px;
+
+}
+.t5{
+  position: relative;
+  top: -1910px;
+}
+.t6{
+  position: relative;
+  top: -2355px;
+  left: 285px;
+}
+.t7 {
+  position: relative;
+  left: 540px;
+  top: -2470px;
+}
+.t8 {
+  position: relative;
+  left: 795px;
+  top: -2780px;
+}
+.t9 {
+  position: relative;
+  top: -3150px;
+  left: 1030px;
+}
