@@ -26,7 +26,7 @@ body {
   font-style: normal;
 }
 h1 {
-  font-width: bold;
+  font-weight: bold;
   font-size: 220px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
   line-height: 161px; /* Расстояние между строками */
