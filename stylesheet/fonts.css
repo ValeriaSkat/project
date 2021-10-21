@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Bebas Neue Pro";
-  src: url(".../../fonts/BebasNeuePro-Regular.woff") format("woff");
+  src: url("../../fonts/BebasNeuePro-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
