@@ -93,7 +93,7 @@ p {
    margin-top: -550px;
 }
 .pg21 img {
-  width: 100%;
+
   max-width: 2502px;
   height: 762px;
 }
@@ -107,28 +107,30 @@ p {
   margin-top: 1270px;
   margin-right: 100px;
 }
-.container2 img{
-  width: 100%;
-}
+
 .t4 {
   position: absolute;
   margin-top: 150px;
 }
+
 .pg41 {
-  margin-left: -10px;
+  margin-left: 25px;
   position: relative;
   margin-top: 660px;
 }
 .pg42 {
+  margin-left: 22px;
   position: relative;
   margin-top: -800px;
 }
 .pg43 {
+  margin-left: 20px;
   position: relative;
   margin-top: -650px;
   left: 40%;
 }
 .pg44 {
+  margin-left: 21px;
   position: relative;
   margin-top: -525px;
   right: -880px;
@@ -136,13 +138,13 @@ p {
 .pg45 {
   position: relative;
   margin-top: -598px;
-  right: -1110px;
+  right: -1128px;
 }
 .ot {
   margin-top: 30px;
   position: absolute;
   font-size: 19px;
-  left: 150px;
+  left: 155px;
 
 }
 .t5{
@@ -168,11 +170,11 @@ p {
 .t9 {
   position: relative;
   margin-top: -310px;
-  left: 1030px;
+  left: 1046px;
 }
 .container4 {
   margin-top: 150px;
-  margin-left: 100px;
+  margin-left: 121px;
   margin-right: 100px;
 }
 .l1 {
@@ -270,7 +272,7 @@ p {
   transform: rotate(180deg);
   margin-top: 0px;
   margin-left: 0px;
-  margin-right: 75px;
+  margin-right: 94px;
 }
 .container8 {
   margin-left: 100px;
@@ -325,7 +327,7 @@ p {
   position: relative;
   z-index: -5;
   top: 600px;
-  margin-left: 1004px;
+  margin-left: 1024px;
 }
 .pg103 {
   position: relative;
