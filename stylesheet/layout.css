@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Bebas Neue";
-  src: url("/fonts/BebasNeue-Regular.woff") format("woff");
+  src: url("fonts/BebasNeue-Regular.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
@@ -26,7 +26,6 @@ body {
   font-style: normal;
 }
 h1 {
-  font-style: oblique;
   font-weight: bolder;
   font-size: 220px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
