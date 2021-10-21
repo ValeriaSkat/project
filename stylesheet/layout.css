@@ -404,6 +404,7 @@ p {
   margin-left: 300px;
 }
 .container10 {
+  max-height: 300px;
   padding-top: 700px;
   padding-bottom: 0px;
   margin-bottom: 0px;
@@ -474,7 +475,7 @@ p {
   margin-bottom: 0px;
 }
 .t21 {
-  margin-top: 100px;
+  margin-top: 390px;
   margin-left: -529px;
   text-align: center;
   position: relative;
