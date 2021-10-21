@@ -406,7 +406,9 @@ p {
   margin-left: 300px;
 }
 .container10 {
-  margin-top: 700px;
+  padding-top: 700px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 .rectangle2 {
     position: relative;
@@ -471,6 +473,7 @@ p {
   margin-left: 100px;
   margin-top: -1680px;
   margin-right: 100px;
+  margin-bottom: 0px;
 }
 .t21 {
   margin-top: 100px;
