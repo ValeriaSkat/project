@@ -1,7 +1,13 @@
 @font-face {
+  font-family: "Bebas Neue Pro";
+  src: url("fonts/BebasNeuePro-SemiExpRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: "Bebas Neue";
   src: url("fonts/BebasNeue-Regular.woff") format("woff");
-  font-weight: normal;
+  font-weight: ;
   font-style: normal;
 }
 @font-face {
@@ -48,10 +54,11 @@ h1 {
   left: 676px;
 }
 .t2 {
+  font-family: "Bebas Neue Pro";
   font-size: 40px;
   position: absolute;
   top: 675px;
-  left: 22px;
+  left: 15px;
 }
 /* Задаю расположение для всех картинок */
 .pg1 {
@@ -99,6 +106,7 @@ h1 {
   position: absolute;
 }
 p {
+    font-family: "Bebas Neue Pro";
     margin-top: -700px;
     font-size: 58px;
     margin-left: 100px;
@@ -475,7 +483,7 @@ p {
   margin-bottom: 0px;
 }
 .t21 {
-  margin-top: 390px;
+  margin-top: 360px;
   margin-left: -529px;
   text-align: center;
   position: relative;
