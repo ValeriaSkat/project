@@ -1479,7 +1479,7 @@
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
+  line-height: 23px; /* Расстояние между строками */
   margin-top: -110px;
   font-weight: 600px;
   margin-left: 152px;
@@ -1488,7 +1488,7 @@
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
+  line-height: 23px; /* Расстояние между строками */
   margin-top: -110px;
   font-weight: 600px;
   margin-left: 419px;
@@ -1497,7 +1497,7 @@
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
+  line-height: 23px; /* Расстояние между строками */
   margin-top: -110px;
   font-weight: 600px;
   margin-left: 789px;
@@ -1506,28 +1506,28 @@
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
-  margin-top: 189px;
+  line-height: 23px; /* Расстояние между строками */
+  margin-top: 183px;
   font-weight: 600px;
-  margin-left: 269px;
+  margin-left: 285px;
 }
 .t15 {
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
-  margin-top: 169px;
+  line-height: 23px; /* Расстояние между строками */
+  margin-top: 161px;
   font-weight: 600px;
-  margin-left: 620px;
+  margin-left: 635px;
 }
 .t16 {
   position: absolute;
   font-size: 26px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
-  line-height: 20px; /* Расстояние между строками */
-  margin-top: 209px;
+  line-height: 23px; /* Расстояние между строками */
+  margin-top: 205px;
   font-weight: 600px;
-  margin-left: 983px;
+  margin-left: 999px;
 }
 .l200 {
   position: absolute;
