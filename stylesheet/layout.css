@@ -389,3 +389,36 @@ p {
   top: -1410px;
   margin-left: 0px;
 }
+.pg131 {
+  position: relative;
+  top: -650px;
+  margin-left: 208px;
+}
+.t18 {
+  font-style: italic;
+  position: relative;
+  font-size: 600px; /* Кегель*/
+  margin-top: -1310px;
+  margin-left: 300px;
+}
+.container10 {
+  margin-top: 700px;
+}
+.rectangle2 {
+    position: relative;
+    width: 1940px;
+    height: 4516px;
+    background: black;
+    top: -652px;;
+    z-index: -1;
+}
+.t19 {
+    color: white;
+    position: fixed;
+    top: 725px;
+    left: 676px;
+}
+.t20 {
+  color: white;
+  padding-top: 84px;
+}
