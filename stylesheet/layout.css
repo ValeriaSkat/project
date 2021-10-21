@@ -84,11 +84,16 @@ p {
     margin-left: 100px;
     line-height: 55px;
 }
+.pg31 {
+  width: 100%;
+}
 .pg21 {
+  width: 100%;
    float: left;
    margin-top: -550px;
 }
 .pg21 img {
+  width: 100%;
   max-width: 2502px;
   height: 762px;
 }
@@ -102,11 +107,15 @@ p {
   margin-top: 1270px;
   margin-right: 100px;
 }
+.container2 img{
+  width: 100%;
+}
 .t4 {
   position: absolute;
   margin-top: 150px;
 }
 .pg41 {
+  margin-left: -10px;
   position: relative;
   margin-top: 660px;
 }
