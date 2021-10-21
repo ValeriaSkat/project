@@ -26,6 +26,7 @@ body {
   font-style: normal;
 }
 h1 {
+  font-style: oblique;
   font-weight: bolder;
   font-size: 220px; /* Кегель*/
   /*margin-top: 190px; /* Оступ сверху */
