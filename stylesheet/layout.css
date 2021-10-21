@@ -20,7 +20,6 @@
   src: url("/fonts/BebasNeue-Thin.woff") format("woff");
   font-weight: 100;*/
 }
-
 body {
   overflow-x: hidden;
   height: 100%;
@@ -492,6 +491,4 @@ p {
   font-size: 58px; /* Кегель*/
   color: white;
   font-weight: normal;
-
-
 }
