@@ -20,8 +20,12 @@
   src: url("/fonts/BebasNeue-Thin.woff") format("woff");
   font-weight: 100;*/
 }
+
 body {
   overflow-x: hidden;
+  height: 100%;
+  max-height: 14142px;
+  margin: 0 auto;
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
 }
@@ -407,7 +411,7 @@ p {
 .rectangle2 {
     position: relative;
     width: 1940px;
-    height: 4516px;
+    height: 3500px;
     background: black;
     top: -652px;;
     z-index: -1;
@@ -461,10 +465,30 @@ p {
   position: absolute;
   border-top: 2px solid white;
   width: 1280px;
-  margin-top: -60px;
+  margin-top: -10px;
 }
 .container11 {
   margin-left: 100px;
-  margin-top: -580px;
+  margin-top: -1680px;
   margin-right: 100px;
+}
+.t21 {
+  margin-top: 100px;
+  margin-left: -529px;
+  text-align: center;
+  position: relative;
+  font-size: 58px; /* Кегель*/
+  color: white;
+  font-weight: bolder;
+
+}
+.t22 {
+  margin-left: -529px;
+  text-align: center;
+  position: relative;
+  font-size: 58px; /* Кегель*/
+  color: white;
+  font-weight: normal;
+
+
 }
